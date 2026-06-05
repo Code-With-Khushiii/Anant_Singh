@@ -474,7 +474,7 @@ function App() {
             </div>
             <div className="flex items-center">
               <Linkedin className="w-6 h-6 text-brown mr-6" />
-              <a href="#" className="text-white/80 font-light hover:text-white transition-colors">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/anant-singh-fuqua/" className="text-white/80 font-light hover:text-white transition-colors">LinkedIn</a>
             </div>
             <div className="flex items-center">
               <Mail className="w-6 h-6 text-brown mr-6" />
