@@ -417,7 +417,7 @@ function App() {
               Analytics, BI, financial analysis, internal controls, risk assessment, and enterprise tools.
             </p>
           </div>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {skillCategories.map((category, index) => (
               <div key={index} className="text-center">
                 <div className="w-16 h-16 bg-black mx-auto mb-8 flex items-center justify-center">
